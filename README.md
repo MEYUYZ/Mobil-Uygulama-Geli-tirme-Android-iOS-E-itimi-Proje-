@@ -20,10 +20,11 @@ Flutter ile geliştirilmiş, ürün listeleme ve sepet yönetimi yapabileceğini
 ## Çalıştırma Adımları
 
 1. Repoyu klonlayın:
-git clone https://github.com/Milarda/ilk_uygulamam.git
+git clone https://github.com/MEYUYZ/Mobil-Uygulama-Geli-tirme-Android-iOS-E-itimi-Proje-
 
 2. Proje dizinine girin:
-cd ilk_uygulamam
+cd Mobil-Uygulama-Geli-tirme-Android-iOS-E-itimi-Proje-
+
 
 3. Bağımlılıkları yükleyin:
 flutter pub get
